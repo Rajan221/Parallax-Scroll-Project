@@ -1,0 +1,37 @@
+#welcome,
+#to,
+#my,
+#site {
+  font-size: 100px;
+  position: fixed;
+}
+
+body {
+  height: 5000px;
+}
+
+#container {
+  margin-top: 100px;
+  display: none;
+  position: fixed;
+}
+
+#bull {
+  position: fixed;
+  top: 250px;
+  display: none;
+  left: 40px;
+}
+
+#pokhara,
+#rara,
+#mustang,
+#pashupati {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: none;
+  background-size: contain;
+}
